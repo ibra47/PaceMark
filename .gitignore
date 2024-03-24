@@ -1,8 +1,14 @@
+# Dependencies
 # Node.js
 /node_modules/
 npm-debug.log
 yarn-error.log
+
+# Environment Variables
 .env
+
+# Production build files
+/frontend/build
 
 # Editor directories and files
 .idea
@@ -21,6 +27,8 @@ yarn-error.log
 ehthumbs.db
 Thumbs.db
 
+
+
 # Build output
 /dist
 /build
@@ -37,3 +45,7 @@ lib/peerconnection.log
 npm-debug.log*
 testem.log
 tmp
+
+
+
+
