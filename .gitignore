@@ -1,0 +1,39 @@
+# Node.js
+/node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.vscode/
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build output
+/dist
+/build
+
+# Dependencies
+/bower_components
+/jspm_packages
+
+# Misc
+.sass-cache
+connect.lock
+coverage/*
+lib/peerconnection.log
+npm-debug.log*
+testem.log
+tmp
