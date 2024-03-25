@@ -20,3 +20,5 @@ function AddBook() {
     </form>
   );
 }
+
+export default AddBook;
